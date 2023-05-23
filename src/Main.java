@@ -14,6 +14,6 @@ public class Main {
             // for you, but you can always add more by pressing Ctrl+F8.
             System.out.println("i = " + i);
         }
-        System.out.println("hello from f1");
+        System.out.println("hello from feature1");
     }
 }
